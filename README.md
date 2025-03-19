@@ -2,12 +2,18 @@
 # MyRadar Project
 
 ## Overview  
-**MyRadar** is a 2D world simulation game developed as part of the Epitech curriculum. The game is written in **C** and leverages **CSFML** for 2D graphics rendering and user interaction.
+**MyRadar** is a 2D radar simulation game developed as part of the Epitech curriculum. The game is written in **C** and leverages **CSFML** for 2D graphics rendering and user interaction.
 
 ## Features  
 - 2D graphics rendering  
 - User interaction  
 - Game logic and simulation
+
+## How to use it?
+
+you can use the given files for test or create your own
+
+   `./my_radar <path_to_file>`
 
 ## Prerequisites  
 Before building and running the project, ensure the following software is installed on your machine:
