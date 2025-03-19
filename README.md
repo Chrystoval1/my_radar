@@ -1,8 +1,8 @@
 
-# MyWorld Project
+# MyRadar Project
 
 ## Overview  
-**MyWorld** is a 2D world simulation game developed as part of the Epitech curriculum. The game is written in **C** and leverages **CSFML** for 2D graphics rendering and user interaction.
+**MyRadar** is a 2D world simulation game developed as part of the Epitech curriculum. The game is written in **C** and leverages **CSFML** for 2D graphics rendering and user interaction.
 
 ## Features  
 - 2D graphics rendering  
@@ -32,7 +32,7 @@ This will:
 ## Running the Project  
 Once the project is built, you can run the game by executing the following command:
 
-   `./myworld`
+   `./my_radar`
 
 ## Cleaning Up  
 To remove compiled files and clean up the project, run:
